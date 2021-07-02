@@ -26,7 +26,7 @@ int main()
 	}
 	else
 	{
-		printf("You lost\n");
+		printf("%s lost\n",name);
 	}
 
 
