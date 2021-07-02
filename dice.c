@@ -4,6 +4,12 @@
 int main()
 {
 	int dice1,dice2,sum;
+	
+	char name[20];
+	printf("What is your name?\n");
+	scanf("%s",name);
+	printf("Hello,%s\n",name);
+	printf("Rolling the dice...\n");
 
 	printf("Rolling the dice...\n");
 
