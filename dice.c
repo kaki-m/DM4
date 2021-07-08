@@ -4,6 +4,8 @@
 int main()
 {
 	int dice1,dice2,sum;
+	int test;
+	a  dddddd
 	
 	char name[20];
 	printf("What is your name?\n");
